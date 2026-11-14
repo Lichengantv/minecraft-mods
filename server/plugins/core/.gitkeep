@@ -1,1 +1,8 @@
-# Place core plugins here (PlaceholderAPI, ProtocolLib, Vault, LuckPerms, etc.)
+# Place core plugins here
+# - PlaceholderAPI
+# - ProtocolLib
+# - Vault
+# - LuckPerms
+# - ViaVersion
+# - ViaBackwards
+# - spark
