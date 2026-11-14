@@ -1,0 +1,56 @@
+# Minecraft / Java / Gradle
+*.class
+*.jar
+!gradle-wrapper.jar
+*.war
+*.ear
+*.log
+*.tmp
+*.swp
+*~
+
+# Build directories
+build/
+out/
+bin/
+.target/
+.gradle/
+run/
+runs/
+
+# IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+*.code-workspace
+.project
+.classpath
+.settings/
+.factorypath
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Minecraft specific
+*.mcmeta.bak
+crash-reports/
+logs/
+saves/
+resourcepacks/
+shaderpacks/
+options.txt
+servers.dat
+usercache.json
+
+# Modding tools
+.modrinth/
+.curseforge/
+
+# Secrets / local config
+*.local
+.env
+local.properties
