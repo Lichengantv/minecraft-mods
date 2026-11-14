@@ -15,6 +15,8 @@ A practical list of plugins commonly used (or replicated) on DonutSMP-like serve
 | **Vault** | Economy & permission bridge | Required |
 | **LuckPerms** | Permissions & groups | Best in class |
 | **spark** | Performance profiler | Highly recommended |
+| **ViaVersion** | Allows newer clients to join | Recommended |
+| **ViaBackwards** | Allows older clients to join | Recommended (pairs with ViaVersion) |
 
 ---
 
@@ -111,6 +113,14 @@ Popular options: DonutCrates, ExcellentCrates, CrazyCrates, or the crates module
 
 ---
 
+## 11. Voice & Communication
+
+| Plugin | Purpose | Notes |
+|--------|---------|-------|
+| **Simple Voice Chat** | Proximity voice chat | Extremely popular on SMPs. Requires client mod too |
+
+---
+
 ## Suggested Minimal Starter Stack
 
 ```
@@ -118,16 +128,18 @@ Popular options: DonutCrates, ExcellentCrates, CrazyCrates, or the crates module
 2. ProtocolLib
 3. Vault
 4. LuckPerms
-5. Economy + Sell/Worth
-6. Homes
-7. Teams
-8. RTP
-9. Auction House
-10. Crates
-11. Combat Tag + Bounty
+5. ViaVersion + ViaBackwards
+6. Simple Voice Chat
+7. Economy + Sell/Worth
+8. Homes
+9. Teams
+10. RTP
+11. Auction House
+12. Crates
+13. Combat Tag + Bounty
 ```
 
-Or just install **UltimateDonutSMP** + PlaceholderAPI + ProtocolLib + LuckPerms + Vault.
+Or just install **UltimateDonutSMP** + PlaceholderAPI + ProtocolLib + LuckPerms + Vault + ViaVersion + ViaBackwards + Simple Voice Chat.
 
 ---
 
